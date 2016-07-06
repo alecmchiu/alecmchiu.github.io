@@ -996,7 +996,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc;
+					color: #b5cde1;
 				}
 
 		#header > nav ul {
@@ -1006,7 +1006,7 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #f0ffff;
+				border-top: solid 2px #4682b4;
 				display: block;
 				padding: 0;
 			}
@@ -1024,9 +1024,14 @@
 					text-decoration: none;
 				}
 
+				#header > nav ul li a:hover{
+					background: #ffffff;
+					color:#4682b4 !important;
+				}
+
 					#header > nav ul li a.active, #header > nav ul li .cc-active {
 						background: #fff;
-						color: #4682b4 !important;
+						color: #6a9bc3 !important;
 					}
 
 				#header > nav ul li:first-child {
