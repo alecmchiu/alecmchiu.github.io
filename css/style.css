@@ -859,14 +859,14 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				background-color: #7da7ca;
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #39c29d;
+				background-color: #6B94B5;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -933,7 +933,7 @@
 
 	#header {
 		background: #4682b4;
-		color: #f0ffff;
+		color: #ffffff;
 		height: 100%;
 		position: fixed;
 		text-align: center;
@@ -955,7 +955,7 @@
 		}
 
 		#header a {
-			color: #f0ffff;
+			color: #ffffff;
 		}
 
 			#header a:hover {
@@ -978,7 +978,7 @@
 			}
 
 			#header > header p {
-				color: #f0ffff;
+				color: #ffffff;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -1006,7 +1006,7 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #5ccfb0;
+				border-top: solid 2px #f0ffff;
 				display: block;
 				padding: 0;
 			}
