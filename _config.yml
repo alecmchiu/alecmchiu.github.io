@@ -7,3 +7,5 @@ github_username: alecmchiu
 
 # Build settings
 markdown: kramdown
+kramdown:
+	input: GFM
