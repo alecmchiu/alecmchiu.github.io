@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<img src="https://docs.google.com/uc?id=0B9BIj_pWs6Z4eDdVR3VKa19KNzA">
+<img src="https://docs.google.com/uc?id=0B9BIj_pWs6Z4U3N6U0ZoVnB6UHc">
 I've divided this light introduction into three parts: _programming_, _bioinformatics_, and _advanced classes_. Some of these classes can be done in parallel and I will provide a flow chart that helps display how these courses can be taken in parallel. That being said, foundations in programming should be established first, so those will have to be done in sequence. All courses here are hosted for free on Coursera.
 
 If you are on a Windows machine, you will need some sort of command line emulator such as PuTTY or Cygwin. On a Mac, your command line interface, Terminal, is built into the operating system. Additionally, you should download the [Anaconda distribution](https://www.continuum.io) of *Python 2.7*. This distribution comes pre-installed with many useful Python modules.
