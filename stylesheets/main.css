@@ -30,12 +30,13 @@ a:hover {
 	padding-top: 10%;
 	width: 60%;
 	margin:0 auto;
+	text-align: center;
 }
 
 .text ul {
 	font-family: 'Montserrat', sans-serif;
 	list-style: none;
-	text-align: left;
+	text-align: center;
 }
 
 .avatar {
@@ -49,7 +50,7 @@ a:hover {
 	padding-right: 5%;
 }
 
-@media screen and (max-width: 639px) {
+/*@media screen and (max-width: 639px) {
 	.main{
 		margin:0 auto;
 		font-family: 'Montserrat', sans-serif;
@@ -83,4 +84,4 @@ a:hover {
 		padding-right: 5%;
 	}
 
-}
+}*/
