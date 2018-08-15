@@ -50,7 +50,7 @@ a:hover {
 	padding-right: 5%;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-device-width: 1024px) {
 	.main{
 		margin:0 auto;
 		font-family: 'Montserrat', sans-serif;
