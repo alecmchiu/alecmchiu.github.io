@@ -49,22 +49,9 @@ a:hover {
 	padding-right: 5%;
 }
 
-/*@media screen and (max-width: 639px) {
+@media screen and (max-width: 639px) {
 	.main {
 	    width: auto;
-	}
-
-	#name {
-		width: auto;
-		text-align: center;
-	}
-
-	#nav-contents{
-		text-align: center;
-	}
-
-	#content{
-		display: none;
 	}
 
     img {
@@ -73,4 +60,3 @@ a:hover {
     }
 
 }
-*/
